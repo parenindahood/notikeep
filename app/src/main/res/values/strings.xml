@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NotiKeep</string>
+
+    <!--    Check Access-->
+    <string name="toast_text_access_error">Please check the box next to NotiKeep for using app</string>
+
+    <!--    Notification-->
+    <string name="notification_no_title_default_value">No title</string>
+    <string name="notification_no_text_default_value">No text</string>
+
+    <!--    BottomNav-->
+    <string name="bottom_nav_notifications_item_title">Notifications</string>
+    <string name="bottom_nav_favourites_item_title">Favourites</string>
+    <string name="bottom_nav_settings_item_title">Settings</string>
+
+    <!--    SnackBar No Notification Access-->
+    <string name="error_no_notification_access_desc">No access to notifications</string>
+    <string name="snackbar_no_notification_access_action_label">Give access</string>
+</resources>
